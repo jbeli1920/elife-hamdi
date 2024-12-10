@@ -7,4 +7,11 @@
     <color name="button_text_color">#FFFFFF</color>
     <color name="button_background_color">#6200EE</color>
 
+    <color name="bleu">#003B73</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="black">#FF000000</color>
+
+    <color name="jaune">#FFC107</color>
+
 </resources>
