@@ -5,7 +5,7 @@
     android:id="@+id/Login"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".LoginActivity"
+    tools:context=".Authentification.LoginActivity"
     android:background="@color/bleu">
 
     <LinearLayout
@@ -130,6 +130,11 @@
                 android:orientation="horizontal">
                 <TextView
                     android:id="@+id/sign"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Don't have an account? Sign up" />
+                <TextView
+                    android:id="@+id/mimi"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Don't have an account? Sign up" />
